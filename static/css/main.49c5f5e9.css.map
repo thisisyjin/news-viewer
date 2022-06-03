@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.49c5f5e9.css","mappings":"AAMA,EAEE,qBAAsB,CADtB,QAEF,CAEA,KACE,mCACF","sources":["index.css"],"sourcesContent":["/* colors\n#6F9FAA\n#ABD0D9\n#F6E193 \n*/\n\n* {\n  margin: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  font-family: 'Noto Sans KR', sans-serif;\n}\n"],"names":[],"sourceRoot":""}
