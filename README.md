@@ -8,6 +8,8 @@
 - `axios` (API - GET)
 
 
+## [🌐 배포](https://thisisyjin.github.io/news-viewer/)
+
 ## Setting
 
 ``` bash
